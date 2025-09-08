@@ -16,7 +16,7 @@ namespace fashion_shop
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new MainMenu());
+            Application.Run(new loginForm());
         }
     }
 }
