@@ -1,0 +1,273 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\C#\\fashion_shop\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8D9D8033-873A-4B3F-A632-29598633FE09}|fashion_shop\\fashion_shop.csproj|F:\\C#\\fashion_shop\\fashion_shop\\frmorderbydate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8D9D8033-873A-4B3F-A632-29598633FE09}|fashion_shop\\fashion_shop.csproj|solutionrelative:fashion_shop\\frmorderbydate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D9D8033-873A-4B3F-A632-29598633FE09}|fashion_shop\\fashion_shop.csproj|F:\\C#\\fashion_shop\\fashion_shop\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D9D8033-873A-4B3F-A632-29598633FE09}|fashion_shop\\fashion_shop.csproj|solutionrelative:fashion_shop\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D9D8033-873A-4B3F-A632-29598633FE09}|fashion_shop\\fashion_shop.csproj|f:\\c#\\fashion_shop\\fashion_shop\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8D9D8033-873A-4B3F-A632-29598633FE09}|fashion_shop\\fashion_shop.csproj|solutionrelative:fashion_shop\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D9D8033-873A-4B3F-A632-29598633FE09}|fashion_shop\\fashion_shop.csproj|f:\\c#\\fashion_shop\\fashion_shop\\rptorderinfobydate.rpt||{C0EF7560-990E-4D61-B970-65A6096B6866}",
+      "RelativeMoniker": "D:0:0:{8D9D8033-873A-4B3F-A632-29598633FE09}|fashion_shop\\fashion_shop.csproj|solutionrelative:fashion_shop\\rptorderinfobydate.rpt||{C0EF7560-990E-4D61-B970-65A6096B6866}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D9D8033-873A-4B3F-A632-29598633FE09}|fashion_shop\\fashion_shop.csproj|F:\\C#\\fashion_shop\\fashion_shop\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8D9D8033-873A-4B3F-A632-29598633FE09}|fashion_shop\\fashion_shop.csproj|solutionrelative:fashion_shop\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D9D8033-873A-4B3F-A632-29598633FE09}|fashion_shop\\fashion_shop.csproj|F:\\C#\\fashion_shop\\fashion_shop\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D9D8033-873A-4B3F-A632-29598633FE09}|fashion_shop\\fashion_shop.csproj|solutionrelative:fashion_shop\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D9D8033-873A-4B3F-A632-29598633FE09}|fashion_shop\\fashion_shop.csproj|F:\\C#\\fashion_shop\\fashion_shop\\fashion_shopdataset.xsd||{07AC752B-D2B0-4DCD-AD9C-237BF561A30A}",
+      "RelativeMoniker": "D:0:0:{8D9D8033-873A-4B3F-A632-29598633FE09}|fashion_shop\\fashion_shop.csproj|solutionrelative:fashion_shop\\fashion_shopdataset.xsd||{07AC752B-D2B0-4DCD-AD9C-237BF561A30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D9D8033-873A-4B3F-A632-29598633FE09}|fashion_shop\\fashion_shop.csproj|F:\\C#\\fashion_shop\\fashion_shop\\categoryinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D9D8033-873A-4B3F-A632-29598633FE09}|fashion_shop\\fashion_shop.csproj|solutionrelative:fashion_shop\\categoryinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D9D8033-873A-4B3F-A632-29598633FE09}|fashion_shop\\fashion_shop.csproj|F:\\C#\\fashion_shop\\fashion_shop\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8D9D8033-873A-4B3F-A632-29598633FE09}|fashion_shop\\fashion_shop.csproj|solutionrelative:fashion_shop\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D9D8033-873A-4B3F-A632-29598633FE09}|fashion_shop\\fashion_shop.csproj|F:\\C#\\fashion_shop\\fashion_shop\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D9D8033-873A-4B3F-A632-29598633FE09}|fashion_shop\\fashion_shop.csproj|solutionrelative:fashion_shop\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D9D8033-873A-4B3F-A632-29598633FE09}|fashion_shop\\fashion_shop.csproj|F:\\C#\\fashion_shop\\fashion_shop\\frmorderbill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8D9D8033-873A-4B3F-A632-29598633FE09}|fashion_shop\\fashion_shop.csproj|solutionrelative:fashion_shop\\frmorderbill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D9D8033-873A-4B3F-A632-29598633FE09}|fashion_shop\\fashion_shop.csproj|F:\\C#\\fashion_shop\\fashion_shop\\frmorderbill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D9D8033-873A-4B3F-A632-29598633FE09}|fashion_shop\\fashion_shop.csproj|solutionrelative:fashion_shop\\frmorderbill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D9D8033-873A-4B3F-A632-29598633FE09}|fashion_shop\\fashion_shop.csproj|F:\\C#\\fashion_shop\\fashion_shop\\orderinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D9D8033-873A-4B3F-A632-29598633FE09}|fashion_shop\\fashion_shop.csproj|solutionrelative:fashion_shop\\orderinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D9D8033-873A-4B3F-A632-29598633FE09}|fashion_shop\\fashion_shop.csproj|F:\\C#\\fashion_shop\\fashion_shop\\frmproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8D9D8033-873A-4B3F-A632-29598633FE09}|fashion_shop\\fashion_shop.csproj|solutionrelative:fashion_shop\\frmproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D9D8033-873A-4B3F-A632-29598633FE09}|fashion_shop\\fashion_shop.csproj|F:\\C#\\fashion_shop\\fashion_shop\\orderinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8D9D8033-873A-4B3F-A632-29598633FE09}|fashion_shop\\fashion_shop.csproj|solutionrelative:fashion_shop\\orderinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D9D8033-873A-4B3F-A632-29598633FE09}|fashion_shop\\fashion_shop.csproj|F:\\C#\\fashion_shop\\fashion_shop\\rptemployee.rpt||{C0EF7560-990E-4D61-B970-65A6096B6866}",
+      "RelativeMoniker": "D:0:0:{8D9D8033-873A-4B3F-A632-29598633FE09}|fashion_shop\\fashion_shop.csproj|solutionrelative:fashion_shop\\rptemployee.rpt||{C0EF7560-990E-4D61-B970-65A6096B6866}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "rptOrderInfoByDate.rpt",
+              "DocumentMoniker": "F:\\C#\\fashion_shop\\fashion_shop\\rptOrderInfoByDate.rpt",
+              "RelativeDocumentMoniker": "fashion_shop\\rptOrderInfoByDate.rpt",
+              "ToolTip": "F:\\C#\\fashion_shop\\fashion_shop\\rptOrderInfoByDate.rpt",
+              "RelativeToolTip": "fashion_shop\\rptOrderInfoByDate.rpt",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAIdSURBVDhPpZJNaBNBFMf/M7ub2NhajSDiwS96CbY2BykojaD0oF5s0YPgQYReLHgpeNCLYv0AexNRb1VUAkJcPXgQEUG89BIaxI9gqzGxH6QmXTef3Wx2nJkmNev25g8ebx7z3n/ezBv8F4wx0lhK7j6fYo3lmowMhl35HoRA3XGk/YvYW\u002BsA2vCrUEIwu1hEJltwmeDc8V5Plx4BAaXEY4J7LxLSt4q4BBS6Eiq8oGm3nXHZ1VCkS9pgfxc62/0yT\u002BASaNRLIWE6ieHB3H1EZsMyVhUKTXU37Yo0RZFeVQiuL14D1tnooBtQcEwcSO9d7aoVdefw5yFC2GG\u002BDsa/OTj228LYwmXejYrkzxkUsqZMNG0TfZkexA99lHETUqlYJ0rV5YEPqfKOG7Glo3MGRSTkx2T4JNp2\u002BzGfmMf3JzNAHijHarJIfz\u002BN0wMh2QoduRrVL9x6NqrWzUt3hjfjYMiHV1NVWNHHCJAOoMof3OBOt10T8XD24kOiv0uynFFkp8ZTrPv8NNs3\u002BpXtifawUmWZWbU6q9l16Z\u002B\u002BTXrHOHHzDPP7ND6iNvSHAtjYrkLTNDzqfQleBIU/rDhdeI1Po4l7JpyqDSTSDoKdPmwLqqhaNdh2vbHrxXWhidcZ9mXBj3yJYr3Pwf7tBnL5HLZu2YRA4O/nERzp2yVrXQJiIhWrdsUwy92/lorZyURqLP4p/YZv/eBXLK9ktQL8AbhJ7xVosbKmAAAAAElFTkSuQmCC",
+              "WhenOpened": "2025-09-08T05:40:22.741Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DashBoard.cs [Design]",
+              "DocumentMoniker": "F:\\C#\\fashion_shop\\fashion_shop\\DashBoard.cs",
+              "RelativeDocumentMoniker": "fashion_shop\\DashBoard.cs",
+              "ToolTip": "F:\\C#\\fashion_shop\\fashion_shop\\DashBoard.cs [Design]",
+              "RelativeToolTip": "fashion_shop\\DashBoard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-31T05:44:31.033Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DashBoard.cs",
+              "DocumentMoniker": "F:\\C#\\fashion_shop\\fashion_shop\\DashBoard.cs",
+              "RelativeDocumentMoniker": "fashion_shop\\DashBoard.cs",
+              "ToolTip": "F:\\C#\\fashion_shop\\fashion_shop\\DashBoard.cs",
+              "RelativeToolTip": "fashion_shop\\DashBoard.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAowB8AAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-31T05:24:39.237Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "loginForm.cs [Design]",
+              "DocumentMoniker": "F:\\C#\\fashion_shop\\fashion_shop\\loginForm.cs",
+              "RelativeDocumentMoniker": "fashion_shop\\loginForm.cs",
+              "ToolTip": "F:\\C#\\fashion_shop\\fashion_shop\\loginForm.cs [Design]",
+              "RelativeToolTip": "fashion_shop\\loginForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-29T02:05:21.582Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "frmOrderBill.cs [Design]",
+              "DocumentMoniker": "F:\\C#\\fashion_shop\\fashion_shop\\frmOrderBill.cs",
+              "RelativeDocumentMoniker": "fashion_shop\\frmOrderBill.cs",
+              "ToolTip": "F:\\C#\\fashion_shop\\fashion_shop\\frmOrderBill.cs [Design]",
+              "RelativeToolTip": "fashion_shop\\frmOrderBill.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-29T01:54:13.708Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainMenu.cs",
+              "DocumentMoniker": "F:\\C#\\fashion_shop\\fashion_shop\\MainMenu.cs",
+              "RelativeDocumentMoniker": "fashion_shop\\MainMenu.cs",
+              "ToolTip": "F:\\C#\\fashion_shop\\fashion_shop\\MainMenu.cs",
+              "RelativeToolTip": "fashion_shop\\MainMenu.cs",
+              "ViewState": "AgIAAGIAAAAAAAAAAADwv3cAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T20:25:28.163Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmOrderByDate.cs [Design]",
+              "DocumentMoniker": "F:\\C#\\fashion_shop\\fashion_shop\\frmOrderByDate.cs",
+              "RelativeDocumentMoniker": "fashion_shop\\frmOrderByDate.cs",
+              "ToolTip": "F:\\C#\\fashion_shop\\fashion_shop\\frmOrderByDate.cs [Design]",
+              "RelativeToolTip": "fashion_shop\\frmOrderByDate.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T22:50:27.955Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainMenu.cs [Design]",
+              "DocumentMoniker": "F:\\C#\\fashion_shop\\fashion_shop\\MainMenu.cs",
+              "RelativeDocumentMoniker": "fashion_shop\\MainMenu.cs",
+              "ToolTip": "F:\\C#\\fashion_shop\\fashion_shop\\MainMenu.cs [Design]",
+              "RelativeToolTip": "fashion_shop\\MainMenu.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T20:38:38.858Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "fashion_shopDataSet.xsd",
+              "DocumentMoniker": "F:\\C#\\fashion_shop\\fashion_shop\\fashion_shopDataSet.xsd",
+              "RelativeDocumentMoniker": "fashion_shop\\fashion_shopDataSet.xsd",
+              "ToolTip": "F:\\C#\\fashion_shop\\fashion_shop\\fashion_shopDataSet.xsd",
+              "RelativeToolTip": "fashion_shop\\fashion_shopDataSet.xsd",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003579|",
+              "WhenOpened": "2025-08-29T03:57:03.384Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "categoryInfo.cs",
+              "DocumentMoniker": "F:\\C#\\fashion_shop\\fashion_shop\\categoryInfo.cs",
+              "RelativeDocumentMoniker": "fashion_shop\\categoryInfo.cs",
+              "ToolTip": "F:\\C#\\fashion_shop\\fashion_shop\\categoryInfo.cs",
+              "RelativeToolTip": "fashion_shop\\categoryInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-01T04:58:37.97Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "frmOrderBill.cs",
+              "DocumentMoniker": "F:\\C#\\fashion_shop\\fashion_shop\\frmOrderBill.cs",
+              "RelativeDocumentMoniker": "fashion_shop\\frmOrderBill.cs",
+              "ToolTip": "F:\\C#\\fashion_shop\\fashion_shop\\frmOrderBill.cs",
+              "RelativeToolTip": "fashion_shop\\frmOrderBill.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAqwB8AAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-29T01:54:30.514Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "loginForm.cs",
+              "DocumentMoniker": "F:\\C#\\fashion_shop\\fashion_shop\\loginForm.cs",
+              "RelativeDocumentMoniker": "fashion_shop\\loginForm.cs",
+              "ToolTip": "F:\\C#\\fashion_shop\\fashion_shop\\loginForm.cs",
+              "RelativeToolTip": "fashion_shop\\loginForm.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAqwB0AAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-29T02:50:24.276Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "frmProduct.cs [Design]",
+              "DocumentMoniker": "F:\\C#\\fashion_shop\\fashion_shop\\frmProduct.cs",
+              "RelativeDocumentMoniker": "fashion_shop\\frmProduct.cs",
+              "ToolTip": "F:\\C#\\fashion_shop\\fashion_shop\\frmProduct.cs [Design]",
+              "RelativeToolTip": "fashion_shop\\frmProduct.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T20:37:07.805Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "rptEmployee.rpt",
+              "DocumentMoniker": "F:\\C#\\fashion_shop\\fashion_shop\\rptEmployee.rpt",
+              "RelativeDocumentMoniker": "fashion_shop\\rptEmployee.rpt",
+              "ToolTip": "F:\\C#\\fashion_shop\\fashion_shop\\rptEmployee.rpt",
+              "RelativeToolTip": "fashion_shop\\rptEmployee.rpt",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAIdSURBVDhPpZJNaBNBFMf/M7ub2NhajSDiwS96CbY2BykojaD0oF5s0YPgQYReLHgpeNCLYv0AexNRb1VUAkJcPXgQEUG89BIaxI9gqzGxH6QmXTef3Wx2nJkmNev25g8ebx7z3n/ezBv8F4wx0lhK7j6fYo3lmowMhl35HoRA3XGk/YvYW\u002BsA2vCrUEIwu1hEJltwmeDc8V5Plx4BAaXEY4J7LxLSt4q4BBS6Eiq8oGm3nXHZ1VCkS9pgfxc62/0yT\u002BASaNRLIWE6ieHB3H1EZsMyVhUKTXU37Yo0RZFeVQiuL14D1tnooBtQcEwcSO9d7aoVdefw5yFC2GG\u002BDsa/OTj228LYwmXejYrkzxkUsqZMNG0TfZkexA99lHETUqlYJ0rV5YEPqfKOG7Glo3MGRSTkx2T4JNp2\u002BzGfmMf3JzNAHijHarJIfz\u002BN0wMh2QoduRrVL9x6NqrWzUt3hjfjYMiHV1NVWNHHCJAOoMof3OBOt10T8XD24kOiv0uynFFkp8ZTrPv8NNs3\u002BpXtifawUmWZWbU6q9l16Z\u002B\u002BTXrHOHHzDPP7ND6iNvSHAtjYrkLTNDzqfQleBIU/rDhdeI1Po4l7JpyqDSTSDoKdPmwLqqhaNdh2vbHrxXWhidcZ9mXBj3yJYr3Pwf7tBnL5HLZu2YRA4O/nERzp2yVrXQJiIhWrdsUwy92/lorZyURqLP4p/YZv/eBXLK9ktQL8AbhJ7xVosbKmAAAAAElFTkSuQmCC",
+              "WhenOpened": "2025-08-27T20:16:46.003Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "orderInfo.cs",
+              "DocumentMoniker": "F:\\C#\\fashion_shop\\fashion_shop\\orderInfo.cs",
+              "RelativeDocumentMoniker": "fashion_shop\\orderInfo.cs",
+              "ToolTip": "F:\\C#\\fashion_shop\\fashion_shop\\orderInfo.cs",
+              "RelativeToolTip": "fashion_shop\\orderInfo.cs",
+              "ViewState": "AgIAAMoAAAAAAAAAAAAiwOQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-20T19:55:17.209Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "orderInfo.cs [Design]",
+              "DocumentMoniker": "F:\\C#\\fashion_shop\\fashion_shop\\orderInfo.cs",
+              "RelativeDocumentMoniker": "fashion_shop\\orderInfo.cs",
+              "ToolTip": "F:\\C#\\fashion_shop\\fashion_shop\\orderInfo.cs [Design]",
+              "RelativeToolTip": "fashion_shop\\orderInfo.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-20T04:03:31.106Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
